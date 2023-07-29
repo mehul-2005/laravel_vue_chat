@@ -3,7 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
-details
+details.md
 testsss.md
 .env
 .env.backup
